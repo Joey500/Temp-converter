@@ -21,7 +21,7 @@ public class Tem extends Applet {
 
         title.setAlignment(title.CENTER);
         title.setForeground(Color.red);
-        Font mycustomefont = new Font("Arial", Font.BOLD, 20);
+        Font mycustomefont = new Font("Arial", Font.BOLD, 25);
         title.setFont(mycustomefont);
 
         cel = new TextField(1);
