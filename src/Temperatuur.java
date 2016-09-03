@@ -2,11 +2,9 @@
 import javax.swing.*;
 import java.applet.Applet;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.util.Scanner;
 
-public class Tem extends Applet {
+public class Temperatuur extends Applet {
     TextField cel, fahr;
     Label celLabel, fahrLabel, title;
     Button button;
