@@ -74,7 +74,7 @@ public class Converter extends Applet implements Runnable {
 
 
             } catch (InterruptedException e) {
-                System.out.println("hoi");
+                System.out.println("hi");
             }
         }
     }
